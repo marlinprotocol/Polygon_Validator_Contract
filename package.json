@@ -1,0 +1,7 @@
+{
+    "name": "polygon_validator_contract",
+    "version": "1.0.0",
+    "dependencies": {
+        "@openzeppelin/contracts": "^4.8.1"
+    }
+}
